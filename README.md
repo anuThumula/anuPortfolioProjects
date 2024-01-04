@@ -1,5 +1,7 @@
 This is a Portfolio by applying the concepts I have learned till now.
 
+Refer to image below:
+https://camo.githubusercontent.com/c9f2d160cbd3799150cd74caeac1da96d15c9da84fd49378862a97e181f31acc/687474703a2f2f6173736574732e636362702e696e2f66726f6e74656e642f636f6e74656e742f72656163742d6a732f706f7274666f6c696f2d6f75747075742e676966
 
 Design Files
 Extra Small (Size < 576px), Small (Size >= 576px) - Home
