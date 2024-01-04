@@ -1,0 +1,15 @@
+.about-details {
+    display: flex;
+  }
+  
+  .skills,
+  .education {
+    padding: 0;
+    margin-right: 50px;
+    list-style-type: none;
+    flex-grow: 1;
+  }
+  
+  .list-item {
+    margin-bottom: 15px;
+  }

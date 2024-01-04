@@ -1,0 +1,10 @@
+.contact-section {
+    display: flex;
+    flex-direction: column;
+    
+
+  }
+  
+  .location-img {
+    width: 80%;
+  }
